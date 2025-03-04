@@ -38,6 +38,7 @@ Este projeto foi criado com o intuito de facilitar a implementação de CRUDs em
 ## 🛠 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias e sugestões.
 
-Feito com ❤️ por Seu Nome 🚀
+Feito com ❤️ por Diego Santos 🚀
+
 Agora está completo e bem estruturado! Se quiser adicionar algo mais, como capturas de tela ou um passo a passo detalhado, me avise. 🚀
 
